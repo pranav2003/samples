@@ -1,4 +1,4 @@
-# samples
+# Code samples
 Code samples for Sandia National Labs Internship application. All samples were
 made by Pranav Kartha at the University of Minnesota, either for research or
 class projects.
